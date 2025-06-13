@@ -1,0 +1,14 @@
+{
+	"id": "Challenge-Backs",
+	"name": "ChallengeBacks",
+	"display_name": "Challenge Deck Back Fix",
+	"author": ["YDKW"],
+	"description": "If you see this, then it's worked!",
+	"prefix": "Chal",
+	"main_file": "Challenge-Backs-Text.lua",
+	"priority": -10000000,
+	"badge_colour": "C990D6",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [malverk],
+}
